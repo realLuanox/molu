@@ -9,3 +9,7 @@
 * Flask https://flask.palletsprojects.com/en/2.1.x/
 * Mongodb https://www.mongodb.com/docs/
 * RxJS https://rxjs.dev/api
+
+###
+---
+* 개발 자료 잘 찾는 개발자 되기 https://teqoo.tistory.com/277
